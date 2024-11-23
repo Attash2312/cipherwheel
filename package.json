@@ -1,0 +1,15 @@
+{
+  "name": "cipherwheel",
+  "version": "1.0.0",
+  "description": "A CLI tool to generate random secure passwords based on user preferences.",
+  "main": "bin/cipherwheel.js",
+  "bin": {
+    "cipherwheel": "./bin/cipherwheel.js"
+  },
+  "scripts": {
+    "start": "node bin/cipherwheel.js"
+  },
+  "keywords": ["password", "generator", "cli", "secure", "cipher"],
+  "author": "attash2312",
+  "license": "MIT"
+}
